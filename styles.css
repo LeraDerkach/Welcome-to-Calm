@@ -94,7 +94,7 @@ ul {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin: 100px 320px 110px 320px;
+    margin: 10px 320px 110px 320px;
 }
 
 .article-top {
