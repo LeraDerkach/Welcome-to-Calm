@@ -69,13 +69,13 @@ ul {
 }
 
 .head {
-    padding-bottom: 100px;
+    
 }
 
 .link {
     display: flex;
-    gap: 10px;
-    font-size: 15px;
+    gap: 40px;
+    font-size: 20px;
     line-height: 1;
 }
 
