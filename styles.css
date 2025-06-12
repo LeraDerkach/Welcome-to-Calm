@@ -42,7 +42,7 @@ ul {
 
 /* Head */
 
-.container-head {
+.container-header {
     display: flex;
     justify-content: space-between;
     height: 100%;
