@@ -270,6 +270,11 @@ height: 172px;
     margin: 0 auto;
 }
 
+    link {
+    gap: 10px;
+    font-size: 16px;
+}
+
 .hero-section {
     margin: 0 auto;
 }
