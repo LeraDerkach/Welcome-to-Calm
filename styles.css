@@ -180,6 +180,7 @@ height: 187px;
     display: flex;
     justify-content: center;
 width: 100%;
+}
 
 .form-label {
     font-size: 12px;
@@ -201,6 +202,7 @@ width: 100%;
     height: 38px;
     border-radius: 6px;
     border-color: #353732;
+    cursor: pointer;
 }
 
 .article-bottom {
@@ -251,14 +253,6 @@ width: 100%;
     margin-bottom: 0;
 } 
 
-.link-up {
-    display: flex;
-    gap: 20px;
-    margin: 20px 0;
-    font-size: 15px;
-    line-height: 1.5;
-}
-
 .link-footer {
     display: flex;
     gap: 20px;
@@ -270,7 +264,16 @@ width: 100%;
     margin: 0 auto;
 }
 
-    link {
+h1 {
+    font-size: 18px;
+}
+
+/* .head {
+    display: none;
+} */
+
+
+.link {
     gap: 10px;
     font-size: 16px;
 }
@@ -309,6 +312,10 @@ width: 100%;
 .text-form {
     width: 100%;
 }
+
+/* .contact-form {
+    display: flex;
+} */
 
 .article-bottom {
     margin: 0 auto;
