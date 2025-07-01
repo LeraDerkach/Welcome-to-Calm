@@ -177,9 +177,9 @@ height: 187px;
 }
 
 .contact-form{
-width: 376px;
-height: 172px;
-}
+    display: flex;
+    justify-content: center;
+width: 100%;
 
 .form-label {
     font-size: 12px;
@@ -188,7 +188,7 @@ height: 172px;
 
 .form-input {
     display: block;
-    width: 100%;
+    width: 80%;
     height: 38px;
     border-color: #E5E7EB;
     border-radius: 8px;
