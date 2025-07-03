@@ -259,7 +259,7 @@ width: 100%;
     font-size: 14px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
 .container-header {
     margin: 0 auto;
 }
@@ -267,10 +267,6 @@ width: 100%;
 h1 {
     font-size: 18px;
 }
-
-/* .head {
-    display: none;
-} */
 
 
 .link {
@@ -307,18 +303,22 @@ h1 {
 .user-form {
     margin: 0 auto;
     flex-direction: column;
+    padding: 10px 0;
 }
 
 .text-form {
     width: 100%;
+    text-align: center;
 }
 
-/* .contact-form {
-    display: flex;
-} */
 
 .article-bottom {
     margin: 0 auto;
+}
+
+.card {
+    display: block;
+    text-align: center;
 }
 
 .footer {
